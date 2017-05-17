@@ -1,5 +1,5 @@
-Midlands Information Cluster
-----------------------------
+Midland Information Cluster
+----
 The 'mic' is an idea of a distributed network of information resources, ideally held in common ownership by those in the Birmingham & Midland 'tech, design & startups' community, to be used by anyone who finds it useful.  
   
 It is being developed incrementally, starting from a map of the kind of information someone new to the community might want
