@@ -1,2 +1,2 @@
-Birmingham.io Information Cluster
----------------------------------
+Midlands Information Cluster
+----------------------------
