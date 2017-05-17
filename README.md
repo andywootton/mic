@@ -1,1 +1,2 @@
-# bic
+Birmingham.io Information Cluster
+---------------------------------
