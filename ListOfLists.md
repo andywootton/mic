@@ -4,7 +4,7 @@ List Of Lists
 We need lists of:
 
 Technologies we use - TechList.md
-Coffee shops.  
+Coffee (or tea) shops - CoffeeShops.md  
 Places where tech Meetups can be run.  
 Pubs where you might bump into someone from the community.
 Universities and studenty things.
