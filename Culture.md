@@ -9,3 +9,4 @@ Like you'd have them, like you'd have them, do unto you."
 
 "Don't be a dick"  
 - @JessieRocket, The Shire & Coventry.
+She has since confessed to stealing it http://knowyourmeme.com/memes/wheatons-law
