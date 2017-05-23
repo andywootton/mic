@@ -6,21 +6,26 @@ Apple - MacOS (OS X)
 Microsoft Windows  
 Google Android  
 Google Chrome  
-(GNU/)Linux  
+(GNU/)Linux (split by major distributions?)
 
 ##Languages
 JavaScript
 Java
 Ruby +/- Rails
 Python
+PHP
 
 ##Data
 PostgreSQL
+MySQL
 
-##Libraries
+##Frameworks/Libraries
 AngularJS
 node.js
 React
+Symfony
+Laravel
+Django
 
 ##Environments?
 AWS
