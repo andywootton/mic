@@ -1,8 +1,7 @@
-micMap UML model change-request
+#micMap UML model change-request
 ----
-Date, Name (& how to contact on-line if clarification needed)
-Comment/request
 
-17/05/2017, @woo on birmingham.io  
-Rename UML file to micMap DONE
+** This file should no longer be necessary.
+** Please raise requests to change the micMap by logging an 'Issue' on github.com/andywootton/mic
 
+This file will be deleted once an issue has been logged successfully.
