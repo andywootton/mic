@@ -11,16 +11,25 @@
 
 ## Languages
 
-- JavaScript
+- Basic
+- C/C++
+- C#
+- Clojure(/ClojureScript)
+- Haskell
 - Java
-- Ruby +/- Rails
-- Python
+- JavaScript
+- Perl
 - PHP
+- Python
+- Ruby +/- Rails
+- Swift
+- SQL
 
 ## Data
 
 - PostgreSQL
 - MySQL
+- NoSQLs
 
 ## Frameworks/Libraries
 
@@ -42,17 +51,19 @@
   - RDS
   - How far do we go here?
 - Google Cloud
-- Containers
+- containers
   - Docker
   - Kubernetes
+- virtualisation
 
 ## Misc
 
+- AI / Machine Learning
 - API
 - DevOps
-- Machine Learning
 - Back-end
 - Front-end
 - Full-stack
 - Passionate
 - Redis
+- User eXperience & design
