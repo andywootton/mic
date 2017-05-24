@@ -19,7 +19,7 @@ We need lists of:
 - Technologies we use - TechList.md
 - Coffee (or tea) shops - CoffeeShops.md
 - Places where tech Meetups can be run.
-- Pubs where you might bump into someone from the community.
+- Pubs & bars where you might bump into someone from the community - Bars.md
 - Universities and studenty things.
 - Maker places.
 
