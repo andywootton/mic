@@ -1,20 +1,26 @@
-##Schools
+# Schools
+
 To be continued...
 
-##Colleges - Further Education
-BMET www.bmet.ac.uk  
-    Matthew Boulton College  
-    Sutton Coldfield College  
-    Stourbridge College  
-    James Watt College  
-Walsall College www.walsallcollege.ac.uk
+# Colleges - Further Education
 
-##Universities - Higher Education
-Aston University  
-Birmingham University  
-Birmingham City University  
-Staffordshire  
-Warwick  
-Wolverhampton University  
+- [BMET](www.bmet.ac.uk)
+  - Matthew Boulton College
+  - Sutton Coldfield College
+  - Stourbridge College
+  - The Academy at Kidderminster
+  - James Watt College
+- [Walsall College](www.walsallcollege.ac.uk)
 
-##Training
+# Universities - Higher Education
+
+- Aston University
+- Birmingham University
+- Birmingham City University
+- Staffordshire
+- Warwick
+- Wolverhampton University
+
+# Training
+
+???
