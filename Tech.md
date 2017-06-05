@@ -7,13 +7,13 @@
 - Microsoft Windows  
 - Google Android  
 - Google Chrome  
-- (GNU/)Linux (split by major distributions?)
+- GNU/Linux
 
 ## Languages
 
-- JavaScript
+- JavaScript / Node.js
 - Java
-- Ruby +/- Rails
+- Ruby
 - Python
 - PHP
 
@@ -25,13 +25,13 @@
 ## Frameworks/Libraries
 
 - AngularJS
-- Node.js
-  - Node.js is an environment, but has its own web frameworks like Express, 
+- Express
 - React
 - Symfony
 - Laravel
 - Django
 - Flask
+- Rails
 
 ## Environments
 
