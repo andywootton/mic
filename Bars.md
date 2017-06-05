@@ -26,8 +26,11 @@
 - Sack of Potatoes, 10 Gosta Green, Birmingham B4 7ER
 - Gosta Green, Holt St, Birmingham B7 4BG
 
-## Edgbaston / Birmingham University
-- 
+## Harborne
+- The Plough
+- The Green Man
+- The White Horse
+- The Sportsman
 
 ## Digbeth
 
@@ -39,6 +42,7 @@
 - The Fighting Cocks
 - The Pat Kavanagh
 - The Cuban Embassy (The Bulls Head)
+- The Prince of Wales
 
 ## Kings Heath
 - The Hare and Hounds
