@@ -8,7 +8,16 @@ Hopefully this will enable us to identify what tech we know and to find people w
 - Microsoft Windows  
 - Google Android  
 - Google Chrome  
-- (GNU/)Linux (split by major distributions?)
+- GNU/Linux
+
+## Languages
+
+- JavaScript / Node.js
+- Java
+- Ruby
+- Python
+- PHP
+
 
 ## Data
 
@@ -35,13 +44,13 @@ Hopefully this will enable us to identify what tech we know and to find people w
 ## Frameworks/Libraries
 
 - AngularJS
-- Node.js
-  - Node.js is an environment, but has its own web frameworks like Express, 
+- Express
 - React
 - Symfony
 - Laravel
 - Django
 - Flask
+- Rails
 
 ## Build Systems
 - Gradle
