@@ -4,6 +4,7 @@
 
 - The Craven Arms, 47 Upper Gough St, Birmingham B1 1JL
 - Bodega Cantina http://www.bodegacantina.co.uk/
+- Cherry Reds, 88-92 John Bright Street, Birmingham B1 1BN. https://cherryreds.com/
 - Island Bar. http://www.bar-island.co.uk/
 - The Jeckyl & Hide, 28 Steelhouse Ln, City Centre, Birmingham B4 6BJ. http://www.thejekyllandhyde.co.uk/
 - Post Office Vaults, 84b New St, Birmingham B2 4BA
@@ -14,6 +15,7 @@
 
 ## Jewellery Quarter
 
+- Indian Brewery Livery St, Birmingham B3. http://www.indianbrewery.com/
 - The Rose Villa Tavern
 - The Red Lion
 - 1000 Trades
@@ -41,5 +43,6 @@
 - The Cuban Embassy (The Bulls Head)
 
 ## Kings Heath
+- Cherry Reds, 16 York Rd, Birmingham B14 7RZ
 - The Hare and Hounds
 

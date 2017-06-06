@@ -1,9 +1,4 @@
 # Coffee Shops
+birmingham.io community member paulineroche already maintains a listing of venues with free WiFi in
 
-## City Centre
-
-- Urban Coffee
-
-## Jewellery Quarter
-
-- Urban Coffee
+RnR's 'Cafe & Venues Directory': <http://www.rnrorganisation.co.uk/directory/>
