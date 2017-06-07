@@ -126,7 +126,6 @@
     "name": "The Cuban Embassy (The Bulls Head)",
     "tempArea": "Moseley"
   },
-
   {
     "name": "Cherry Reds",
     "address": "16 York Rd, Birmingham",
@@ -139,6 +138,22 @@
     "postcode": "",
     "tempArea": "Kings Heath",
     "url": "http://"
+  },
+  {
+    "name": "The Plough",
+    "tempArea": "Harborne"
+  },
+  {
+    "name": "The Green Man",
+    "tempArea": "Harborne"
+  },
+  {
+    "name": "The White Horse",
+    "tempArea": "Harborne"
+  },
+  {
+    "name": "The Sportsman",
+    "tempArea": "Harborne"
   },
   {
     "name": "template",
