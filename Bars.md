@@ -1,48 +1,20 @@
-# Bars & Pubic Houses
+# Bars & Public Houses
 
-## City Centre
+This file originally contained the list but this has been converted to .json entries in the following format:
 
-- The Craven Arms, 47 Upper Gough St, Birmingham B1 1JL
-- Bodega Cantina http://www.bodegacantina.co.uk/
-- Cherry Reds, 88-92 John Bright Street, Birmingham B1 1BN. https://cherryreds.com/
-- Island Bar. http://www.bar-island.co.uk/
-- The Jeckyl & Hide, 28 Steelhouse Ln, City Centre, Birmingham B4 6BJ. http://www.thejekyllandhyde.co.uk/
-- Post Office Vaults, 84b New St, Birmingham B2 4BA
-- The Queen Victoria
-- The Sun on the Hill
-- The Sunflower Lounge
-- The Wellington
+  {  
+    "name": "The Jeckyl & Hide",  
+    "address": "28 Steelhouse Lane, City Centre, Birmingham",  
+    "postcode": "B4 6BJ",  
+    "tempArea": "City Centre",  
+    "url": "http:////www.thejekyllandhyde.co.uk/"  
+  },
 
-## Jewellery Quarter
+The file was divided into sections by area.
+That data is currently held in the field "tempArea" but will subsequently be replaced by latitude and longitude fields so we can calculate alternative area schemes, such as post-code. 
 
-- Indian Brewery Livery St, Birmingham B3. http://www.indianbrewery.com/
-- The Rose Villa Tavern
-- The Red Lion
-- 1000 Trades
-- The Lord Clifton
-- The Church Inn, 22 Great Hampton St, Birmingham B18 6AQ
+We had a section for:
 
-## Gun Quarter / Aston University
+Edgbaston / Birmingham University
 
-- Gunmakers Arms, 93 Bath St, Birmingham B4 6HG
-- Sack of Potatoes, 10 Gosta Green, Birmingham B4 7ER
-- Gosta Green, Holt St, Birmingham B7 4BG
-
-## Edgbaston / Birmingham University
-- 
-
-## Digbeth
-
-- The Spotted Dog
-- The Old Crown
-
-## Moseley
-
-- The Fighting Cocks
-- The Pat Kavanagh
-- The Cuban Embassy (The Bulls Head)
-
-## Kings Heath
-- Cherry Reds, 16 York Rd, Birmingham B14 7RZ
-- The Hare and Hounds
-
+but there were no bars added there yet, so it's preserved here.
