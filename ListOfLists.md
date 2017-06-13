@@ -22,6 +22,8 @@ We need lists of:
 - Pubs & bars where you might bump into someone from the community - Bars.md & Bars.json
 - Universities and studenty things.
 - Maker places.
+- List of Hackathons
+- List of Events (or links to birmingham.io, Silicon Canal calandar etc)
 
 # Pointers
 
