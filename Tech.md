@@ -10,6 +10,22 @@ Hopefully this will enable us to identify what tech we know and to find people w
 - Google Chrome  
 - GNU/Linux
 
+## Editor/IDE
+
+### console
+- vi/vim
+- emacs
+
+### GUI
+- Atom
+- Eclipse
+- Gedit
+- LightTable
+- NetBeans
+- PHPStorm
+- Sublime
+- Visual Studio
+
 ## Languages
 
 - JavaScript / Node.js
@@ -17,7 +33,6 @@ Hopefully this will enable us to identify what tech we know and to find people w
 - Ruby
 - Python
 - PHP
-
 
 ## Data
 
