@@ -16,6 +16,7 @@ Information about the mic itself is in `mic*.md` files.
 
 We need lists of:
 
+- Areas of Birmingham & Midland - Areas.clj
 - Technologies we use - TechList.md
 - Coffee (or tea) shops - CoffeeShops.md
 - Places where tech Meetups can be run.
