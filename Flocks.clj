@@ -1,40 +1,38 @@
 People
 
-BBQ
+(org: "Silicon Canal")
+(name: "Simon Jenner") 
 
-Silicon Canal
-(Simon Jenner) 
-
-383 Project
-(Kath Preston)
+(org: "383 Project")
+(name: "Kath Preston")
 
 Meducation
-(Jeremy Walker)
+("Jeremy Walker")
 
 Talis
-(@ChrisC
- @pads Ben
- Roman
- Richard)
+(@ChrisC "Chris"
+ @pads "Ben"
+ "Roman"
+ "Richard")
 
-@dnews Daniel News
+@dnews "Daniel News"
 
-@stevejalim Steve Jalim
-@auxbuss Marc Cooper
+@stevejalim "Steve Jalim"
+@auxbuss "Marc Cooper"
 
-? @rythie Richard Cunningham
-? @joeturner Joe Turner
-@robstyles Rob Styles
+? @rythie "Richard Cunningham"
+? @joeturner "Joe Turner"
+@robstyles "Rob Styles"
 
 Manning Publications
-@gregjwild Greg Wild
+@gregjwild "Greg Wild"
 
 brumtech Slack /mic
-@alexrussell
-@limeblast Daniel Hollands
-brumtech: @jimseconde b.io: @jims
-@sil Stuart Langridge
-@woo Andy Wootton
+@alexrussell "Alex Russel"
+@limeblast "Daniel Hollands"
+brumtech: @jimseconde b.io: @jims "Jim Seconde"
+@sil "Stuart Langridge"
+@woo "Andy Wootton"
 
 Flocks
 
@@ -45,3 +43,4 @@ Flocks
 "So I (now) think there are more than 1000 people" - Rythie
 
 birmingham.io 590
+Brumtech Slack 196
