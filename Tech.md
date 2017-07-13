@@ -20,6 +20,7 @@ Hopefully this will enable us to identify what tech we know and to find people w
 - Atom
 - Eclipse
 - Gedit
+- IntelliJ
 - LightTable
 - NetBeans
 - PHPStorm
