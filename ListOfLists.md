@@ -22,9 +22,9 @@ We need lists of:
 - Places where tech Meetups can be run.
 - Pubs & bars where you might bump into someone from the community - Bars.md & Bars.json
 - Universities and studenty things.
-- Maker places.
+- Maker places - MakerSpace.json
 - List of Hackathons
-- List of Events (or links to birmingham.io, Silicon Canal calandar etc)
+- List of Events (or links to birmingham.io, Silicon Canal calendar etc)
 
 # Pointers
 

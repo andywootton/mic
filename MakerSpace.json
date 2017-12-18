@@ -1,0 +1,106 @@
+[
+	{
+	"name": "UMake",
+	"address": "Edgbaston",
+	"postcode": "",
+	"lat": "",
+	"lon": "",
+	"url": "http://umake.ltd.uk/"
+	},
+	{
+	"name": "Make:Bromyard",
+	"address": "",
+	"postcode": "",
+	"lat": "",
+	"lon": "",
+	"url": "https://www.makebromyard.org.uk/"
+	},
+	{
+	"name": "fizzpop",
+	"address": "",
+	"postcode": "",
+	"lat": "",
+	"lon": "",
+	"url": ""
+	},
+	{
+	"name": "Porthouse Business Centre",
+	"address": "Tenbury Rd, Bromyard",
+	"postcode": "HR7 4FL",
+	"lat": "",
+	"lon": "",
+	"url": ""
+	},
+	{
+	"name": "The Dual Works",
+	"address": "23 A Kenyon Street, Jewellery Quarter, Birmingham, UK",
+	"postcode": "B18 6AR",
+	"lat": "",
+	"lon": "",
+	"url": "https://thedualworks.com/"
+	},
+	{
+	"name": "Hackspace Foundation",
+	"address": "Nation-wide",
+	"postcode": "",
+	"lat": "",
+	"lon": "",
+	"url": "https://www.hackspace.org.uk/"
+	},
+	{
+	"name": "Bromsgrove & Droitwhich Makerspace",
+	"address": "",
+	"postcode": "",
+	"lat": "",
+	"lon": "",
+	"url": ""
+	}
+	{
+	"name": "Coventry Makerspace",
+	"address": "",
+	"postcode": "",
+	"lat": "",
+	"lon": "",
+	"url": ""
+	}
+	{
+	"name": "Derby Makers",
+	"address": "",
+	"postcode": "",
+	"lat": "",
+	"lon": "",
+	"url": ""
+	}
+	{
+	"name": "Leicester Hackspace",
+	"address": "",
+	"postcode": "",
+	"lat": "",
+	"lon": "",
+	"url": ""
+	}
+	{
+	"name": "Nottingham Hackspace",
+	"address": "",
+	"postcode": "",
+	"lat": "",
+	"lon": "",
+	"url": "http://nottinghack.org.uk/"
+	}
+	{
+	"name": "Potteries Hackspace",
+	"address": "50 Broad St, Stoke-on-Trent",
+	"postcode": "ST1 4EU",
+	"lat": "",
+	"lon": "",
+	"url": 	"http://potterieshackspace.org/"
+	}
+	{
+	"name": "Wolverhampton Hackspace",
+	"address": "",
+	"postcode": "",
+	"lat": "",
+	"lon": "",
+	"url": ""
+	}
+]
